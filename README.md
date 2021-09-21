@@ -15,3 +15,4 @@ Most code brought from others
 - [tf_gradient_tape](https://www.tensorflow.org/tutorials/quickstart/advanced)    
 - [pytorch_pure](https://github.com/pytorch/examples/blob/master/mnist/main.py)    
 - [pytorch_fastai](https://www.analyticsvidhya.com/blog/2021/05/training-state-of-the-art-deep-learning-models-with-fast-ai/)    
+- [pytorch_fastai_course-v3]( https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson7-resnet-mnist.ipynb)
