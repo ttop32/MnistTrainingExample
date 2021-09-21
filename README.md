@@ -4,10 +4,10 @@ Most code brought from others
    
    
 # colab
-- [tf_keras](https://drive.google.com/file/d/1mEVQ24MHwYkMImClNm-xJt4NIV00_19U/view?usp=sharing)     
-- [tf_gradient_tape](https://drive.google.com/file/d/1yOYO91Ba_1LWZ7ROvKXMvZq29sI-wfFa/view?usp=sharing)      
-- [pytorch_pure](https://drive.google.com/file/d/14ev4cgQ2OKiW0iReeOMVunGlYVd8rl_-/view?usp=sharing)    
-- [pytorch_fastai](https://drive.google.com/file/d/1hWzsldvaZrp8TXVCgqon5eIddwBFhHSH/view?usp=sharing)     
+- [tf_keras](https://colab.research.google.com/drive/16-CKokbhspkKq2Ppr1iyr-zL_SnWc_BF?usp=sharing)     
+- [tf_gradient_tape](https://colab.research.google.com/drive/107ejKsnvoyShvcxjLqU_Gwo6z2uV7eDN?usp=sharing)      
+- [pytorch_pure](https://colab.research.google.com/drive/1g2Fvbv9HXKK9IsKCUl_1P-KoOLMJ3tSU?usp=sharing)    
+- [pytorch_fastai](https://colab.research.google.com/drive/1TvD1pOoIqcmdJ85PJyTH-pBqcqSzfLbJ?usp=sharing)     
     
     
 # Acknowledgement and References     
